@@ -1,0 +1,7 @@
+# Super user
+# Username: admin
+# password: admin
+
+# User login info for test
+# username: anindo
+# password for tesr user Anindo is: Anindo$$$0000
