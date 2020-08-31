@@ -1,5 +1,5 @@
 # user-auth-django
-only a simple login/signup/logout django app for learning
+a simple login/homepage/logout django app for learning
 ## Prerequisites
 ```bash
 python== 3.8 or up and django==3.1
